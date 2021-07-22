@@ -1,0 +1,20 @@
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.exe.config
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.exe
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.pdb
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N_gram.Form1.resources
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N_gram.Properties.Resources.resources
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csproj.GenerateResource.cache
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.exe
+C:\Users\M3800\Desktop\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.pdb
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.exe.config
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.exe
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\bin\Debug\N-gram.pdb
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csprojAssemblyReference.cache
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N_gram.Form1.resources
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N_gram.Properties.Resources.resources
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csproj.GenerateResource.cache
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.csproj.CoreCompileInputs.cache
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.exe
+C:\Users\M3800\Desktop\Second Year\CPP\N-gram\N-gram\N-gram\obj\Debug\N-gram.pdb

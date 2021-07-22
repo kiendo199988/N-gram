@@ -1,0 +1,88 @@
+graph ngram{node [ fontname = "arial"]
+node0 [ label = "root" ]
+node0 -- node1
+node1 [ label = "abc
+7
+0.5" ]
+node1 -- node4
+node4 [ label = "zzz
+3
+0.43" ]
+node4 -- node13
+node13 [ label = "abc
+1
+0.33" ]
+node4 -- node14
+node14 [ label = "xxx
+2
+0.67" ]
+node1 -- node5
+node5 [ label = "xxx
+3
+0.43" ]
+node5 -- node16
+node16 [ label = "abc
+2
+0.67" ]
+node5 -- node17
+node17 [ label = "xxx
+1
+0.33" ]
+node1 -- node6
+node6 [ label = "abc
+1
+0.14" ]
+node6 -- node19
+node19 [ label = "xxx
+1
+1" ]
+node0 -- node2
+node2 [ label = "zzz
+2
+0.14" ]
+node2 -- node7
+node7 [ label = "abc
+1
+0.5" ]
+node7 -- node22
+node22 [ label = "xxx
+1
+1" ]
+node2 -- node8
+node8 [ label = "xxx
+1
+0.5" ]
+node8 -- node25
+node25 [ label = "abc
+1
+1" ]
+node0 -- node3
+node3 [ label = "xxx
+5
+0.36" ]
+node3 -- node10
+node10 [ label = "abc
+4
+0.8" ]
+node10 -- node31
+node31 [ label = "abc
+1
+0.25" ]
+node10 -- node32
+node32 [ label = "zzz
+2
+0.5" ]
+node10 -- node33
+node33 [ label = "xxx
+1
+0.25" ]
+node3 -- node11
+node11 [ label = "xxx
+1
+0.2" ]
+node11 -- node34
+node34 [ label = "abc
+1
+1" ]
+
+}
